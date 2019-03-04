@@ -3,7 +3,7 @@ An image gallery featuring dynamic spacing, built as part of 'JavaScript30' with
 
 The gallery images and text adjust size dynamically on click, utilising CSS Flexbox and vanilla JavaScript.
 
-Live demo: Coming soon
+Live demo: https://lukeprosser.github.io/flex_panels/
 
 ## HTML
 Markup consists of a containing div with the class 'panels', holding all 5 panels, each with a class of 'panel'. Each individual panel features 3 <p> tags with title wording.
